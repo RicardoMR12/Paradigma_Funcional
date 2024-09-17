@@ -1,3 +1,4 @@
+
 FrontEnd Paradigma Funcional
 Página Web local com que exerce a função de explicar como é o uso do paradigma funcional juntamente de C++
 
