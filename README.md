@@ -13,6 +13,5 @@ main.cpp: <br> O arquivo principal contendo o index principal da página
 <br>
 Para compilar e executar o projeto, siga estes passos:
 
-Certifique-se de que possui o Live Server e de que todos os arquivos estejam na mesma pasta
+Confirme que possui o Live Server e de que todos os arquivos estejam na mesma pasta
 
-Compile o código usando o seguinte comando:
